@@ -1,0 +1,18 @@
+/* header related style */
+.header{
+    background-color: #E554731A;
+    display: flex;
+    align-items: center;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+}
+.btno{
+    background-color: #e55473;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: white;
+}
