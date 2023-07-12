@@ -150,3 +150,21 @@ border-radius: 5px;
     border-radius: 20px 20px;
     background-color: rgb(220, 109, 68);
 }
+/* 6th project */
+.footer{
+    text-align: center;
+    background-color: #272727;
+    padding: 100px;
+    margin-top: 60px;
+}
+.instan{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.any-tag{
+    color: #FFFFFFE5;
+}
