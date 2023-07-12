@@ -1,6 +1,8 @@
 /* header related style */
 .header{
     background-color: #E554731A;
+    width: 1920px;
+    height: 850px;
     display: flex;
     align-items: center;
 }
@@ -11,8 +13,57 @@
 .btno{
     background-color: #e55473;
     display: inline-flex;
-padding: 20px 43px;
-align-items: flex-start;
+padding: 18px 40px;
 gap: 10px;
 color: white;
+border: 0px;
 }
+.body{
+    padding: 130px;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: fle;
+}
+/* 2nd project */
+.picture-2{
+    display: flex;
+    align-items: center;
+    padding-left:177px;
+    margin-top: 50px;
+    
+}
+.skill{
+    background-color: #A7216226;
+    border-radius: 300px 300px 0px 0px;
+    margin-right: 34px;
+    justify-content: center;
+}
+.skill2{
+  background-color: #0597A026;
+  size: 50px;
+  border-radius: 300px 300px 0px 0px;
+  margin-right: 20px;
+}
+.skills{
+   background-color: #477D1126;
+   border-radius: 400px 400px 0px 0px;
+   margin: 20px;
+}
+.discribtion{
+    text-align: center;
+    padding-top: 70px;
+}
+.section-discribtion{
+    text-align: center;
+}
+.backround-discription{
+    display: flex;
+    margin-left: 100px;
+}
+.new{
+    margin-left: 100px;
+}
+.ids{
+    margin-left: 100px;
+}
+/* 3rd project */
