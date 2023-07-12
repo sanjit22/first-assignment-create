@@ -55,6 +55,7 @@ display: fle;
 }
 .section-discribtion{
     text-align: center;
+    color: #27272799;
 }
 .backround-discription{
     display: flex;
@@ -80,14 +81,42 @@ display: fle;
     text-align: center;
     background-color: #E554730D;
     margin-top: 120px;
-    width: 1900px;
+    width: 1800px;
     height: 600px;
 }
 .project{
     margin-top: 200px;
-    
+    color: black;
 }
 .backround-photo{
     margin-top: 100px;
 }
+.peragraph{
+    color: #27272799;
+}
 /* 4th project */
+.instagram-banner{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 80px;
+}
+.section-title{
+    text-align: center;
+    margin-top: 100px;
+}
+.plus{
+    color: #27272799;
+    text-align: center;
+}
+.picture-text{
+    padding: 19px;
+}
+.picture-banner{
+    padding: 20px;
+}
+.picture-pic{
+    padding: 20px;
+}
+.picture-image{
+    padding: 20px;
+}
